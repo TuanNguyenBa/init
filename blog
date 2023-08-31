@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Giá Vàng Vũng Tàu Hôm Nay</title>
+</head>
+<body>
+    <header>
+        <h1>Giá Vàng Vũng Tàu Hôm Nay</h1>
+    </header>
+
+    <div class="content">
+        <h2>Giới thiệu</h2>
+        <p>
+            Trong bài viết này, chúng ta sẽ cùng nhau tìm hiểu về giá vàng Vũng Tàu hôm nay và những dự báo, phân tích thị trường vàng cần thiết để bạn có cái nhìn tổng quan về tình hình thị trường này.
+        </p>
+
+        <!-- Đây là hình ảnh -->
+        <img src="https://primagold.com.vn/wp-content/uploads/2023/07/ruoc-may-man-nhan-dip-nam-moi-voi-trang-suc-co-bon-la-meridian-trang-suc-2-1.jpg" alt="Trang sức vàng">
+
+        <h2>Những Yếu Tố Ảnh Hưởng Đến Giá Vàng Vũng Tàu</h2>
+        <!-- Nội dung khác -->
+
+        <h2>Dự Báo Giá Vàng Vũng Tàu Hôm Nay</h2>
+        <!-- Nội dung khác -->
+
+        <!-- Đây là hình ảnh -->
+        <img src="https://primagold.com.vn/wp-content/uploads/2023/07/ruoc-may-man-nhan-dip-nam-moi-voi-trang-suc-co-bon-la-meridian-trang-suc-1-1609745120-984-width600height584.jpg" alt="Trang sức vàng">
+
+        <h2>Phân Tích Thị Trường Vàng</h2>
+        <!-- Nội dung khác -->
+
+        <h2>Lợi Ích Đầu Tư Vàng Vũng Tàu</h2>
+        <!-- Nội dung khác -->
+
+        <!-- Đây là hình ảnh -->
+        <img src="https://primagold.com.vn/wp-content/uploads/2023/07/trang-suc-prima-fine-jewelry-bst-serpent.jpg" alt="Trang sức vàng">
+
+        <h2>FAQs (Câu Hỏi Thường Gặp)</h2>
+        <!-- Nội dung khác -->
+
+    </div>
+
+    <footer>
+        <p>Access Now: <a href="https://bit.ly/J_Umma">https://bit.ly/J_Umma</a></p>
+    </footer>
+
+    <!-- Nút Back to Top -->
+    <div id="back-to-top">Back to Top</div>
+
+    <script>
+        // Hiển thị/ẩn nút Back to Top
+        window.onscroll = function() {scrollFunction()};
+        function scrollFunction() {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                document.getElementById("back-to-top").style.display = "block";
+            } else {
+                document.getElementById("back-to-top").style.display = "none";
+            }
+        }
+
+        // Cuộn lên đầu trang khi nhấp vào nút Back to Top
+        document.getElementById("back-to-top").addEventListener("click", function() {
+            document.body.scrollTop = 0; // For Safari
+            document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+        });
+    </script>
+</body>
+</html>
